@@ -1,0 +1,14 @@
+body{ 
+
+    background-image: linear-gradient(to right, rgb(229, 233, 20) , blue);
+}
+.container{
+    width:100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+h1{
+    text-align: center;
+    
+}
