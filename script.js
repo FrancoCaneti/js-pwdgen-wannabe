@@ -14,4 +14,4 @@ console.log(colore);
 
 //4 Genera password
 
-document .getElementById('main-title').innerHTML ='La password è: ' + nome + cognome + colore
+document .getElementById('main-title').innerHTML ='La password è: ' + nome + cognome + colore + '21'
